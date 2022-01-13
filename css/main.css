@@ -1,0 +1,18 @@
+.table__header{
+  padding: 10px;
+  align-items: center;
+  vertical-align: middle;
+  border:solid 1px;
+}
+
+.table__data{
+  padding: 10px;
+  text-align: center;
+  border:solid 1px;
+}
+
+table{
+  margin: 200px auto;
+  border-collapse: collapse;
+}
+
